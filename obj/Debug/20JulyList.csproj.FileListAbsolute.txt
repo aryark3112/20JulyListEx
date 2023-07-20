@@ -1,0 +1,8 @@
+D:\20JulyList\20JulyList\bin\Debug\20JulyList.exe.config
+D:\20JulyList\20JulyList\bin\Debug\20JulyList.exe
+D:\20JulyList\20JulyList\bin\Debug\20JulyList.pdb
+D:\20JulyList\20JulyList\obj\Debug\20JulyList.csproj.AssemblyReference.cache
+D:\20JulyList\20JulyList\obj\Debug\20JulyList.csproj.SuggestedBindingRedirects.cache
+D:\20JulyList\20JulyList\obj\Debug\20JulyList.csproj.CoreCompileInputs.cache
+D:\20JulyList\20JulyList\obj\Debug\20JulyList.exe
+D:\20JulyList\20JulyList\obj\Debug\20JulyList.pdb
